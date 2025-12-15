@@ -1,0 +1,5 @@
+{
+  "name": "PID Mester",
+  "description": "En professionel PID-tuner og lommeregner til Android-telefoner. Beregn P, I og D værdier baseret på procesparametre og få AI-drevet rådgivning.",
+  "requestFramePermissions": []
+}
